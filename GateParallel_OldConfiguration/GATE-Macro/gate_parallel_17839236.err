@@ -1,0 +1,21 @@
+Error in <TFile::TFile>: file /user/tridevme/parallel/SPEBT/GATE-Macro/output/SPEBT_{0..19}.root does not exist
+Error in <TFileMerger::AddFile>: cannot open file /user/tridevme/parallel/SPEBT/GATE-Macro/output/SPEBT_{0..19}.root
+hadd exiting due to error in /user/tridevme/parallel/SPEBT/GATE-Macro/output/SPEBT_{0..19}.root
+Error in <TFile::TFile>: file /user/tridevme/parallel/SPEBT/GATE-Macro/output/SPEBT_{20..39}.root does not exist
+Error in <TFileMerger::AddFile>: cannot open file /user/tridevme/parallel/SPEBT/GATE-Macro/output/SPEBT_{20..39}.root
+hadd exiting due to error in /user/tridevme/parallel/SPEBT/GATE-Macro/output/SPEBT_{20..39}.root
+Error in <TFile::TFile>: file /user/tridevme/parallel/SPEBT/GATE-Macro/output/SPEBT_{40..59}.root does not exist
+Error in <TFileMerger::AddFile>: cannot open file /user/tridevme/parallel/SPEBT/GATE-Macro/output/SPEBT_{40..59}.root
+hadd exiting due to error in /user/tridevme/parallel/SPEBT/GATE-Macro/output/SPEBT_{40..59}.root
+Error in <TFile::TFile>: file /user/tridevme/parallel/SPEBT/GATE-Macro/output/SPEBT_{60..79}.root does not exist
+Error in <TFileMerger::AddFile>: cannot open file /user/tridevme/parallel/SPEBT/GATE-Macro/output/SPEBT_{60..79}.root
+hadd exiting due to error in /user/tridevme/parallel/SPEBT/GATE-Macro/output/SPEBT_{60..79}.root
+Error in <TFile::TFile>: file /user/tridevme/parallel/SPEBT/GATE-Macro/output/SPEBT_{80..99}.root does not exist
+Error in <TFileMerger::AddFile>: cannot open file /user/tridevme/parallel/SPEBT/GATE-Macro/output/SPEBT_{80..99}.root
+hadd exiting due to error in /user/tridevme/parallel/SPEBT/GATE-Macro/output/SPEBT_{80..99}.root
+Error in <TFile::TFile>: file /user/tridevme/parallel/SPEBT/GATE-Macro/output/SPEBT_{100..119}.root does not exist
+Error in <TFileMerger::AddFile>: cannot open file /user/tridevme/parallel/SPEBT/GATE-Macro/output/SPEBT_{100..119}.root
+hadd exiting due to error in /user/tridevme/parallel/SPEBT/GATE-Macro/output/SPEBT_{100..119}.root
+Error in <TFile::TFile>: file /user/tridevme/parallel/SPEBT/GATE-Macro/output/SPEBT_{120..139}.root does not exist
+Error in <TFileMerger::AddFile>: cannot open file /user/tridevme/parallel/SPEBT/GATE-Macro/output/SPEBT_{120..139}.root
+hadd exiting due to error in /user/tridevme/parallel/SPEBT/GATE-Macro/output/SPEBT_{120..139}.root

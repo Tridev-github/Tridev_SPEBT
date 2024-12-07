@@ -1,0 +1,40 @@
+I/O warning : failed to load external entity "./Materials.xml"
+I/O warning : failed to load external entity "./Materials.xml"
+I/O warning : failed to load external entity "./Materials.xml"
+Error in <TFile::ReadBuffer>: error reading all requested bytes from file SPEBT_0.hits_xlayer0.root, got 246 of 300
+Error in <TFile::Init>: SPEBT_0.hits_xlayer0.root failed to read the file type data.
+Error in <TFileMerger::AddFile>: cannot open file SPEBT_0.hits_xlayer0.root
+hadd exiting due to error in SPEBT_0.hits_xlayer0.root
+Warning in <TFile::Init>: file SPEBT_4.hits_xlayer0.root probably not closed, trying to recover
+Warning in <TFile::Init>: no keys recovered, file has been made a Zombie
+Error in <TFileMerger::AddFile>: cannot open file SPEBT_4.hits_xlayer0.root
+hadd exiting due to error in SPEBT_4.hits_xlayer0.root
+Warning in <TFile::Init>: file SPEBT_5.hits_xlayer0.root probably not closed, trying to recover
+Warning in <TFile::Init>: no keys recovered, file has been made a Zombie
+Error in <TFileMerger::AddFile>: cannot open file SPEBT_5.hits_xlayer0.root
+hadd exiting due to error in SPEBT_5.hits_xlayer0.root
+Warning in <TFile::Init>: file SPEBT_7.hits_xlayer2.root probably not closed, trying to recover
+Warning in <TFile::Init>: no keys recovered, file has been made a Zombie
+Error in <TFileMerger::AddFile>: cannot open file SPEBT_7.hits_xlayer2.root
+hadd exiting due to error in SPEBT_7.hits_xlayer2.root
+Error in <TFile::TFile>: file /user/tridevme/parallel/SPEBT/GATE-Macro/hits.root does not exist
+Error in <TFileMerger::AddFile>: cannot open file hits.root
+hadd exiting due to error in hits.root
+SysError in <TFile::TFile>: could not delete /user/tridevme/parallel/SPEBT/GATE-Macro/SPEBT_0.Singles_xlayer0.root (errno: 2) No such file or directory
+Error in <TFileMerger::OutputFile>: cannot open the MERGER output file 
+hadd error opening target file (does SPEBT_0.Singles_xlayer0.root exist?).
+Warning in <TFile::Init>: file SPEBT_4.Singles_xlayer0.root probably not closed, trying to recover
+Warning in <TFile::Init>: no keys recovered, file has been made a Zombie
+Error in <TFileMerger::AddFile>: cannot open file SPEBT_4.Singles_xlayer0.root
+hadd exiting due to error in SPEBT_4.Singles_xlayer0.root
+Warning in <TFile::Init>: file SPEBT_5.Singles_xlayer0.root probably not closed, trying to recover
+Warning in <TFile::Init>: no keys recovered, file has been made a Zombie
+Error in <TFileMerger::AddFile>: cannot open file SPEBT_5.Singles_xlayer0.root
+hadd exiting due to error in SPEBT_5.Singles_xlayer0.root
+Warning in <TFile::Init>: file SPEBT_7.Singles_xlayer2.root probably not closed, trying to recover
+Warning in <TFile::Init>: no keys recovered, file has been made a Zombie
+Error in <TFileMerger::AddFile>: cannot open file SPEBT_7.Singles_xlayer2.root
+hadd exiting due to error in SPEBT_7.Singles_xlayer2.root
+Error in <TFile::TFile>: file /user/tridevme/parallel/SPEBT/GATE-Macro/singles.root does not exist
+Error in <TFileMerger::AddFile>: cannot open file singles.root
+hadd exiting due to error in singles.root
